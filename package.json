@@ -1,6 +1,6 @@
 {
 	"name": "jquery.datatables-init",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Quick jQuery Datatables initialization throug data attributes and classes",
 	"main": "index.js",
 	"scripts": {
