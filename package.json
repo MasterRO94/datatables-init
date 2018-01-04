@@ -12,6 +12,10 @@
 	],
 	"author": "Roman Ihoshyn <igoshin18@gmail.com>",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MasterRO94/datatables-init"
+	},
 	"dependencies": {
 		"jquery": "^3.1.1",
 		"datatables": "^3.1.1"
